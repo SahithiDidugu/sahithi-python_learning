@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahithi-thegreat
+- 👋 Hi, I’m @sahithi
 - 👀 I’m interested in coding,back-end
 - 🌱 I’m currently learning python,GitHub
 - 💞️ I’m looking to collaborate on 
